@@ -1,12 +1,12 @@
-CID_380_Athena_Commando_F_DarkViking_Fire, 1500
-CID_379_Athena_Commando_M_BattleHoundFire, 1500
-Glider_ID_134_DarkVikingFire, 1000
+CID_415_Athena_Commando_F_AssassinSuit, 1500
+CID_452_Athena_Commando_F_CyberFu, 1200
+Pickaxe_ID_179_StarWand, 500
+Glider_ID_196_CycloneMale, 800
 na
 na
-na
-MusicPack_043_Overdrive, 500
-Pickaxe_ID_261_DarkEagleFire1H, 800
-BID_347_DarkEagleFire, 300
-EID_FireDance, 800
-Umbrella_Season_12, 200
-CID_703_Athena_Commando_M_Cyclone, 0
+Pickaxe_ID_142_TeriyakiFish, 200
+CID_493_Athena_Commando_F_JurassicArchaeology, 800
+EID_JellyFrog, 600
+EID_EgyptianDance, 500
+BID_138_Celestial, 350
+BID_235_Heist, 200
